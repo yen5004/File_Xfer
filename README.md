@@ -1,2 +1,18 @@
 # File_Xfer
 developer tips for cli commands
+
+# File xfer
+
+Certainly! Here are some alternatives to Transfer.sh that provide secure file transfers without storing files permanently:
+
+1. **File.io**: File.io allows you to upload files with a specified expiration time. Once the file is downloaded or the time expires, the file is automatically deleted.
+    
+    Usage:
+    
+    ```bash
+    curl -F "file=@/path/to/file" https://file.io
+    ```
+    
+2. **Firefox Send**: Firefox Send is a service by Mozilla that allows you to upload and share files with end-to-end encryption. You can set an expiration time or download limit for the file.
+    
+    Website: Firefox Send
