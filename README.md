@@ -1,9 +1,7 @@
 # File_Xfer
 developer tips for cli commands
 
-# File xfer
-
-Certainly! Here are some alternatives to Transfer.sh that provide secure file transfers without storing files permanently:
+Some alternatives to Transfer.sh that provide secure file transfers without storing files permanently:
 
 1. **File.io**: File.io allows you to upload files with a specified expiration time. Once the file is downloaded or the time expires, the file is automatically deleted.
     
